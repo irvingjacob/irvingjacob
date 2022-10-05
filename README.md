@@ -9,4 +9,4 @@
 - [Hospital-Death-Prediction-And-Data-Imputation](https://github.com/irvingjacob/Hospital-Death-Prediction-And-Data-Imputation) is an attempt at analyzing the usefulness of different type of data imputation techniques on machine learning models. This project was done using R and a project report is in this repository as well discussing methods and results. 
 - [NBA_API_Notebooks](https://github.com/irvingjacob/NBA_API_Notebooks) is a repo made with the intentions of creating different types of analytics and visualizations using the [NBA_API](https://github.com/swar/nba_api). A table of contents descriving the project can be found in the README of this repository. 
 
-
+![ShotChartFromProject](https://github.com/irvingjacob/NBA_API_Notebooks/blob/main/shotCharts/joelEmbiid_2020_21ShotChart.png)
